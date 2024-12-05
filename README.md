@@ -1,1 +1,1 @@
-# podkradula
+print('Hello,world')
